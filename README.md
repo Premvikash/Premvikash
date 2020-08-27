@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premvikash&layout=compact&theme=buefy" alt="languages" height="200" width="420">
 </p>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='400"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## ⚡ Domains:
 - Internet of Things.
