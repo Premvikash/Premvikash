@@ -12,6 +12,6 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## ⚡ Domains:
-- Internet of Things.
+- Internet of things.
 - Devops of something.
-- SRE of what.
+- SRE of nothing.
