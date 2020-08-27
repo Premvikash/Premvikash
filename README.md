@@ -5,10 +5,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Premvikash?label=Follow&style=social)](https://github.com/Premvikash/?tab=follow)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Premvikash&show_icons=true&theme=buefy" alt="my github stats" height="200" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premvikash&layout=compact&theme=buefy" alt="languages" height="200" width="420">
+<img src="https://github-readme-stats.vercel.app/api?username=Premvikash&show_icons=true&theme=buefy" alt="my github stats" height="200" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premvikash&layout=compact&theme=buefy" alt="languages" height="200" width="420">
 </p>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='400"'>
 
 ## ⚡ Domains:
 - Internet of Things.
 - Devops of something.
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
