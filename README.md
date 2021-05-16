@@ -1,6 +1,6 @@
 # Prem.
 
-[![Twitter Badge](https://img.shields.io/badge/-@prem_vu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prem_vu)](https://twitter.com/prem_vu) 
+[![Twitter Badge](https://img.shields.io/badge/-@premVU-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/premVU)](https://twitter.com/premVU) 
 [![Gmail Badge](https://img.shields.io/badge/-premv.2009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spremv.2009@gmail.com)](mailto:premv.2009@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Premvikash?label=Follow&style=social)](https://github.com/Premvikash/?tab=follow)
 
